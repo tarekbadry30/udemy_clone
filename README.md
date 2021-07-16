@@ -2,7 +2,7 @@
 
 
 ## About Project
-### a project with laravel :-
+### a project with laravel for courses and students :-
   
   1- admin panel :
   
