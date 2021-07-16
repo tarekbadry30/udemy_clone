@@ -1,4 +1,3 @@
-<p align="center"><a href="https://www.e3melbusiness.com/" target="_blank"><img src="https://www.e3melbusiness.com/assets/images/logo.png" width="100"></a></p>
 
 
 
@@ -94,4 +93,3 @@
       password  : 12345678
 
 
-## Finally I hope to have a new adventure by joining the company team
